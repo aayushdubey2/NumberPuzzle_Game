@@ -65,7 +65,6 @@ class CustomNumberPuzzleControl extends NumberPuzzleControl {
 		
 		//Your logic here
 		int count=0,flag=0,j=0;
-		
 		while(count!=15)
 		{
 			int a = getRandomNumber();
